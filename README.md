@@ -1,0 +1,2 @@
+# persiana-gallega
+Ejercicio clase
